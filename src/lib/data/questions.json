@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question_id": "Saya lebih menyukai pekerjaan praktis daripada yang murni teoretis.",
+    "question_en": "I prefer practical work to purely theoretical work.",
+    "domain": "achiever"
+  },
+  {
+    "id": 2,
+    "question_id": "Saya mendapatkan energi dari aktivitas fisik.",
+    "question_en": "I get energy from being active.",
+    "domain": "achiever"
+  },
+  {
+    "id": 3,
+    "question_id": "Saya suka melihat hasil langsung dari pekerjaan saya.",
+    "question_en": "I like to see immediate results from my work.",
+    "domain": "achiever"
+  },
+  {
+    "id": 4,
+    "question_id": "Saya senang mengatur dan melaksanakan tugas.",
+    "question_en": "I enjoy organizing and carrying out tasks.",
+    "domain": "achiever"
+  },
+  {
+    "id": 5,
+    "question_id": "Saya belajar paling baik dengan melakukan dan mengalami hal-hal secara langsung.",
+    "question_en": "I learn best by doing and experiencing things.",
+    "domain": "achiever"
+  },
+  {
+    "id": 6,
+    "question_id": "Saya suka bekerja di lingkungan yang dinamis.",
+    "question_en": "I like working in a fast-paced environment.",
+    "domain": "achiever"
+  },
+  {
+    "id": 7,
+    "question_id": "Saya suka mengambil inisiatif dalam tugas-tugas praktis.",
+    "question_en": "I like to take the initiative on practical tasks.",
+    "domain": "achiever"
+  },
+  {
+    "id": 8,
+    "question_id": "Saya menganalisis situasi sebelum mengambil keputusan.",
+    "question_en": "I analyze situations before making decisions.",
+    "domain": "thinker"
+  },
+  {
+    "id": 9,
+    "question_id": "Saya menikmati memecahkan masalah.",
+    "question_en": "I enjoy solving problems.",
+    "domain": "thinker"
+  },
+  {
+    "id": 10,
+    "question_id": "Saya suka memikirkan perbaikan atau ide-ide baru.",
+    "question_en": "I like to think about improvements or new ideas.",
+    "domain": "thinker"
+  },
+  {
+    "id": 11,
+    "question_id": "Saya suka bekerja dengan cara yang terstruktur dan sistematis.",
+    "question_en": "I like to work in a structured and systematic way.",
+    "domain": "thinker"
+  },
+  {
+    "id": 12,
+    "question_id": "Saya sering mencari informasi terlebih dahulu sebelum memulai sesuatu.",
+    "question_en": "I often look for information first before I start something.",
+    "domain": "thinker"
+  },
+  {
+    "id": 13,
+    "question_id": "Saya menikmati berpikir secara logis dan membuat hubungan antar hal.",
+    "question_en": "I enjoy thinking logically and making connections.",
+    "domain": "thinker"
+  },
+  {
+    "id": 14,
+    "question_id": "Saya suka bekerja secara mandiri pada tugas-tugas yang kompleks.",
+    "question_en": "I like to work independently on complex tasks.",
+    "domain": "thinker"
+  },
+  {
+    "id": 15,
+    "question_id": "Saya senang membantu orang lain saat mereka kesulitan dengan sesuatu.",
+    "question_en": "I enjoy helping others when they are struggling with something.",
+    "domain": "socialforce"
+  },
+  {
+    "id": 16,
+    "question_id": "Saya mendengarkan orang lain dengan penuh perhatian.",
+    "question_en": "I listen attentively to others.",
+    "domain": "socialforce"
+  },
+  {
+    "id": 17,
+    "question_id": "Saya merasa penting agar semua orang merasa didengarkan.",
+    "question_en": "I think it’s important that everyone feels heard.",
+    "domain": "socialforce"
+  },
+  {
+    "id": 18,
+    "question_id": "Saya senang bekerja sama dalam tim.",
+    "question_en": "I enjoy working together in a team.",
+    "domain": "socialforce"
+  },
+  {
+    "id": 19,
+    "question_id": "Saya merasa puas saat mendukung orang lain.",
+    "question_en": "I find satisfaction in supporting others.",
+    "domain": "socialforce"
+  },
+  {
+    "id": 20,
+    "question_id": "Saya dapat dengan cepat merasakan bagaimana perasaan seseorang.",
+    "question_en": "I can quickly sense how someone is feeling.",
+    "domain": "socialforce"
+  },
+  {
+    "id": 21,
+    "question_id": "Saya suka menciptakan suasana yang positif dalam sebuah kelompok.",
+    "question_en": "I like to create a positive atmosphere in a group.",
+    "domain": "socialforce"
+  },
+  {
+    "id": 22,
+    "question_id": "Saya suka memunculkan ide atau solusi baru.",
+    "question_en": "I like coming up with new ideas or solutions.",
+    "domain": "creative"
+  },
+  {
+    "id": 23,
+    "question_id": "Saya suka berkreasi.",
+    "question_en": "I love being creative.",
+    "domain": "creative"
+  },
+  {
+    "id": 24,
+    "question_id": "Saya sering berpikir di luar kebiasaan.",
+    "question_en": "I often think outside the box.",
+    "domain": "creative"
+  },
+  {
+    "id": 25,
+    "question_id": "Saya senang menciptakan atau mendesain sesuatu.",
+    "question_en": "I enjoy creating or designing things.",
+    "domain": "creative"
+  },
+  {
+    "id": 26,
+    "question_id": "Saya cepat tertarik pada proyek-proyek inovatif.",
+    "question_en": "I quickly get excited about innovative projects.",
+    "domain": "creative"
+  },
+  {
+    "id": 27,
+    "question_id": "Saya suka menggunakan imajinasi saat mengerjakan tugas.",
+    "question_en": "I like to use my imagination when working on assignments.",
+    "domain": "creative"
+  },
+  {
+    "id": 28,
+    "question_id": "Saya menghargai kebebasan dan keragaman dalam pekerjaan saya.",
+    "question_en": "I value freedom and variety in my work.",
+    "domain": "creative"
+  },
+  {
+    "id": 29,
+    "question_id": "Saya suka memimpin dalam sebuah kelompok.",
+    "question_en": "I like to take the lead in a group.",
+    "domain": "entrepreneur"
+  },
+  {
+    "id": 30,
+    "question_id": "Saya cepat melihat peluang atau kemungkinan.",
+    "question_en": "I quickly spot opportunities or possibilities.",
+    "domain": "entrepreneur"
+  },
+  {
+    "id": 31,
+    "question_id": "Saya senang meyakinkan orang lain tentang ide-ide saya.",
+    "question_en": "I enjoy convincing others of my ideas.",
+    "domain": "entrepreneur"
+  },
+  {
+    "id": 32,
+    "question_id": "Saya suka bekerja dengan berorientasi pada tujuan dan hasil.",
+    "question_en": "I like to work in a goal-oriented and results-oriented way.",
+    "domain": "entrepreneur"
+  },
+  {
+    "id": 33,
+    "question_id": "Saya bersedia mengambil risiko untuk mencapai sesuatu.",
+    "question_en": "I am willing to take risks to achieve something.",
+    "domain": "entrepreneur"
+  },
+  {
+    "id": 34,
+    "question_id": "Tantangan dan tanggung jawab memberi saya energi.",
+    "question_en": "Challenges and responsibility energize me.",
+    "domain": "entrepreneur"
+  },
+  {
+    "id": 35,
+    "question_id": "Saya senang merancang proyek atau kegiatan.",
+    "question_en": "I enjoy setting up projects or activities.",
+    "domain": "entrepreneur"
+  }
+]
